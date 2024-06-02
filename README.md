@@ -47,19 +47,19 @@
 ---
    ```
       commit 3fee8423885caaa11600132775bd66e3ad0d928d (HEAD -> main, origin/main, origin/HEAD)
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: moskv11n 
       Date:   Mon Apr 1 16:22:15 2024 +0300
 
     Hello_world and name
 
       commit 339edaec1add74a16d1386553a03e74d44aa51fa
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: moskv11n 
       Date:   Mon Apr 1 16:20:53 2024 +0300
 
     Create_Hello_world
 
       commit ffbe10a298e1ab9690d113dce612d79352e00b8f
-      Author: _Twent <76701971+z1qnezt@users.noreply.github.com>
+      Author: _Twent <76701971+moskv11n@users.noreply.github.com>
       Date:   Mon Apr 1 16:19:34 2024 +0300
 
     Initial commit
@@ -120,31 +120,31 @@
 ---
    ```
       commit 8df45162f894f927dca112aba891663e56e69f95 (HEAD -> patch1, origin/patch1)
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: moskv11n 
       Date:   Mon Apr 1 16:26:54 2024 +0300
 
     HelloWorld addComments
 
       commit 185045b0c4ad75c3e81343838577931964dcaa00
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: moskv11n 
       Date:   Mon Apr 1 16:24:59 2024 +0300
 
     HelloWorld edited
 
       commit 3fee8423885caaa11600132775bd66e3ad0d928d (origin/main, origin/HEAD, main)
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: moskv11n 
       Date:   Mon Apr 1 16:22:15 2024 +0300
 
     Hello_world and name
 
       commit 339edaec1add74a16d1386553a03e74d44aa51fa
-      Author: z1qnezt <misha232dog@gmail.com>
+      Author: moskv11n 
       Date:   Mon Apr 1 16:20:53 2024 +0300
 
     Create_Hello_world
     
       commit ffbe10a298e1ab9690d113dce612d79352e00b8f
-      Author: _Twent <76701971+z1qnezt@users.noreply.github.com>
+      Author: moskv11n <76701971+moskv11n@users.noreply.github.com>
       Date:   Mon Apr 1 16:19:34 2024 +0300
 
     Initial commit
